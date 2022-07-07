@@ -9,5 +9,6 @@
 - PHP > 7.0
 - Redis模块
 - pcntl扩展
+- 最好熟悉PHP的多进程
 
 
